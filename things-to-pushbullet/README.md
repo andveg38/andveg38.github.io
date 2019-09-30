@@ -1,5 +1,5 @@
 # Things To Pushbullet Instructions
-[Things to Pushbullet Page](https://omarshahine.github.io/things-to-pushbullet/Things-to-Pushbullet.html) is a simple static web page that lets you contruct a Things To-Do and send it to an iOS device. I wrote this because I use Windows Devices at work and wanted an easy way to send To-Dos to Things that was more powerful and capable than [Mail to Things](https://support.culturedcode.com/customer/en/portal/articles/2908262-using-mail-to-things).
+[Things to Pushbullet Page](https://andveg38.github.io/things-to-pushbullet/Things-to-Pushbullet.html) is a simple static web page that lets you contruct a Things To-Do and send it to an iOS device. I wrote this because I use Windows Devices at work and wanted an easy way to send To-Dos to Things that was more powerful and capable than [Mail to Things](https://support.culturedcode.com/customer/en/portal/articles/2908262-using-mail-to-things).
 
 ## Set up Pushbullet
 1. Get a  [Pushbullet Account](https://www.pushbullet.com/) 
